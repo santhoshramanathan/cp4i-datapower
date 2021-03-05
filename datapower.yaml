@@ -14,7 +14,7 @@ spec:
     requests:
       cpu: 4
       memory: 4Gi
-  version: 10.0-eus
+  version: 10.0.0-lts
   users:
     - name: admin
       accessLevel: privileged
